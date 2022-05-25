@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.570975d5.css",
-    "main.js": "/static/js/main.786d2ef1.js",
-    "static/media/MoodBoost.png": "/static/media/MoodBoost.8996d6d2c8699d39efdf.png",
-    "static/media/MusicAndMemories.png": "/static/media/MusicAndMemories.2a5223154a8ee3ca5d69.png",
-    "static/media/NameThatTune.png": "/static/media/NameThatTune.8be5c825c81af961d9b2.png",
-    "static/media/PotionMaster.png": "/static/media/PotionMaster.e995093ad078276d4bd2.png",
-    "static/media/Python.png": "/static/media/Python.376ab94a34216b9c9f52.png",
-    "static/media/MongoDB.png": "/static/media/MongoDB.b615526ddd39609f6d25.png",
-    "static/media/JavaScript.png": "/static/media/JavaScript.68642871e17541c1a56f.png",
-    "static/media/Node.js.png": "/static/media/Node.js.960bf7761075074d6339.png",
-    "static/media/reacttt.png": "/static/media/reacttt.e6bedb89c8caa210e91f.png",
-    "static/media/NB.png": "/static/media/NB.7df8188dcd61318e3dee.png",
-    "static/media/htmlLOGO.png": "/static/media/htmlLOGO.51cfc0c33b0a6e84f533.png",
-    "static/media/cssLOGO.png": "/static/media/cssLOGO.e8d4a439b14d25cb89e7.png",
-    "index.html": "/index.html",
-    "main.570975d5.css.map": "/static/css/main.570975d5.css.map",
-    "main.786d2ef1.js.map": "/static/js/main.786d2ef1.js.map"
+    "main.css": "/nicole-broughton/static/css/main.570975d5.css",
+    "main.js": "/nicole-broughton/static/js/main.54a81d96.js",
+    "static/media/MoodBoost.png": "/nicole-broughton/static/media/MoodBoost.8996d6d2c8699d39efdf.png",
+    "static/media/MusicAndMemories.png": "/nicole-broughton/static/media/MusicAndMemories.2a5223154a8ee3ca5d69.png",
+    "static/media/NameThatTune.png": "/nicole-broughton/static/media/NameThatTune.8be5c825c81af961d9b2.png",
+    "static/media/PotionMaster.png": "/nicole-broughton/static/media/PotionMaster.e995093ad078276d4bd2.png",
+    "static/media/Python.png": "/nicole-broughton/static/media/Python.376ab94a34216b9c9f52.png",
+    "static/media/MongoDB.png": "/nicole-broughton/static/media/MongoDB.b615526ddd39609f6d25.png",
+    "static/media/JavaScript.png": "/nicole-broughton/static/media/JavaScript.68642871e17541c1a56f.png",
+    "static/media/Node.js.png": "/nicole-broughton/static/media/Node.js.960bf7761075074d6339.png",
+    "static/media/reacttt.png": "/nicole-broughton/static/media/reacttt.e6bedb89c8caa210e91f.png",
+    "static/media/NB.png": "/nicole-broughton/static/media/NB.7df8188dcd61318e3dee.png",
+    "static/media/htmlLOGO.png": "/nicole-broughton/static/media/htmlLOGO.51cfc0c33b0a6e84f533.png",
+    "static/media/cssLOGO.png": "/nicole-broughton/static/media/cssLOGO.e8d4a439b14d25cb89e7.png",
+    "index.html": "/nicole-broughton/index.html",
+    "main.570975d5.css.map": "/nicole-broughton/static/css/main.570975d5.css.map",
+    "main.54a81d96.js.map": "/nicole-broughton/static/js/main.54a81d96.js.map"
   },
   "entrypoints": [
     "static/css/main.570975d5.css",
-    "static/js/main.786d2ef1.js"
+    "static/js/main.54a81d96.js"
   ]
 }
