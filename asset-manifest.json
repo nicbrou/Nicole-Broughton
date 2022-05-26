@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nicole-broughton/static/css/main.b48e7864.css",
-    "main.js": "/nicole-broughton/static/js/main.61ec909f.js",
+    "main.css": "/nicole-broughton/static/css/main.fca294c8.css",
+    "main.js": "/nicole-broughton/static/js/main.ed97a2d0.js",
     "static/media/MoodBoost.png": "/nicole-broughton/static/media/MoodBoost.8996d6d2c8699d39efdf.png",
     "static/media/MusicAndMemories.png": "/nicole-broughton/static/media/MusicAndMemories.2a5223154a8ee3ca5d69.png",
     "static/media/NameThatTune.png": "/nicole-broughton/static/media/NameThatTune.8be5c825c81af961d9b2.png",
@@ -15,11 +15,11 @@
     "static/media/cssLOGO.png": "/nicole-broughton/static/media/cssLOGO.e8d4a439b14d25cb89e7.png",
     "static/media/NB.png": "/nicole-broughton/static/media/NB.55827977d80d9c2e0539.png",
     "index.html": "/nicole-broughton/index.html",
-    "main.b48e7864.css.map": "/nicole-broughton/static/css/main.b48e7864.css.map",
-    "main.61ec909f.js.map": "/nicole-broughton/static/js/main.61ec909f.js.map"
+    "main.fca294c8.css.map": "/nicole-broughton/static/css/main.fca294c8.css.map",
+    "main.ed97a2d0.js.map": "/nicole-broughton/static/js/main.ed97a2d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.b48e7864.css",
-    "static/js/main.61ec909f.js"
+    "static/css/main.fca294c8.css",
+    "static/js/main.ed97a2d0.js"
   ]
 }
